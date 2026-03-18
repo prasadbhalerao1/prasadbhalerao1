@@ -2,17 +2,22 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A9BD7&width=435&lines=Hey%2C+I+am+Prasad+%F0%9F%91%8B;SY+B.Tech+(CSBS)+%2728;MERN+Stack+Web+Developer;AIML+Enthusiast&center=true&size=24" alt="Typing SVG" />
 </div>
-
-<h3 align="center">Hi Namaste 🙏, I am Prasad Bhalerao</h3>
-
 ---
 
 ### 👨‍💻 About Me
 
 - 🎓 **SY B.Tech (CSBS) '28** student at **JSPM's RSCOE** in Pune, Maharashtra.
-- 💻 Focuses on **Web Development**, **Data Structures & Algorithms**, and **Machine Learning**.
-- 🛠️ Builds applications using the **MERN Stack** and **C/C++**.
+- 💻 MERN Stack Web Developer.
+- 🛠️ Building cool stuff.
 - 🤝 Open to collaborating on open-source projects.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasadbhalerao1/prasadbhalerao1/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasadbhalerao1/prasadbhalerao1/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prasadbhalerao1/prasadbhalerao1/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ### 🛠️ Tech Stack & Skills
 
@@ -32,6 +37,8 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <!-- Tools & Platforms -->
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -41,35 +48,7 @@
 ### 💻 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasadbhalerao1&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&count_private=true" alt="Prasad's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=prasadbhalerao1&theme=dark&hide_border=true&background=00000000" alt="Prasad's GitHub Streak" />
-</p>
-
-### 🐍 Contribution Snake Game
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasadbhalerao1/prasadbhalerao1/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasadbhalerao1/prasadbhalerao1/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prasadbhalerao1/prasadbhalerao1/output/dist/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-### 🌟 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/prasadbhalerao1/treasureHunt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prasadbhalerao1&repo=treasureHunt&theme=dark&hide_border=true&bg_color=00000000" alt="Featured Project 1" />
-  </a>
-  <a href="https://github.com/prasadbhalerao1/authentication">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prasadbhalerao1&repo=authentication&theme=dark&hide_border=true&bg_color=00000000" alt="Featured Project 2" />
-  </a>
-  <a href="https://github.com/prasadbhalerao1/waypoint2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prasadbhalerao1&repo=waypoint2&theme=dark&hide_border=true&bg_color=00000000" alt="Featured Project 3" />
-  </a>
-  <a href="https://github.com/prasadbhalerao1/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prasadbhalerao1&repo=portfolio&theme=dark&hide_border=true&bg_color=00000000" alt="Featured Project 4" />
-  </a>
 </p>
 
 ### 📫 Let's Connect!
