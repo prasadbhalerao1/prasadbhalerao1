@@ -7,9 +7,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 **SY B.Tech (CSBS) '28** student at **JSPM's RSCOE** in Pune, Maharashtra.
-- 💻 MERN Stack Web Developer.
-- 🛠️ Building cool stuff.
-- 🤝 Open to collaborating on open-source projects.
+- 💻 MERN Stack Developer
+- 🧠 Interested in AI-powered applications
+- ⚙️ Focused on building real-world projects
 
 <p align="center">
   <picture>
@@ -44,6 +44,13 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+
+### 🚀 Key Projects
+
+- **Digital Psychological Intervention System** — AI-based student mental health platform with chat support, counselling access, and analytics
+- **Authentication System** — Secure MERN-based auth system with email verification, 2FA (OTP), JWT sessions, Redis, CSRF protection, and rate limiting
+- **Treasure Hunt Application** — QR-based campus game with real-time leaderboard, randomized paths, admin dashboard, and anti-cheat mechanisms
+- **College Club Websites** — Built and deployed responsive websites for college clubs and societies with modern UI and basic backend integration
 
 ### 💻 GitHub Stats & Streaks
 
